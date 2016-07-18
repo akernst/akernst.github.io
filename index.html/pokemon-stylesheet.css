@@ -1,0 +1,42 @@
+img {
+	display: block;
+	margin: auto;
+}
+#name {
+	text-align: center;
+}
+#hp-bar {
+	background-color: teal;
+	padding: 5px;
+	border-radius: 3px;
+	border: 5px;
+	height: 5px;
+	width: 400px;
+	margin: auto;
+}
+#hp-number {
+	font-family: helvetica;
+	font-size: 15px;
+	text-align: center;
+}
+
+
+table {
+	margin: auto;
+}
+td {
+	position: relative;
+	font-family: "Century Gothic", Candara, Calibri, Times;
+	text-align: center;
+
+}
+.middle {
+	border-left: 2px blue solid;
+	border-right: 2px blue solid;
+}
+#row1 {
+	font-size: 15px;
+}
+#row2 {
+	font-size: 10px;
+}
